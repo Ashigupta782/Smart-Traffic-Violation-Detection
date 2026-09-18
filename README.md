@@ -148,7 +148,3 @@ Log to CSV + Display in Dashboard
 - Future plans include sending SMS or Email alerts to the vehicle owner. Future integration, with the RTO database will allow real‑time updates.
 
 ---
-
-## 👨‍💻 Author
-
-Built as a **Bring Your Own Project (BYOP)** submission for the Computer Vision course.
