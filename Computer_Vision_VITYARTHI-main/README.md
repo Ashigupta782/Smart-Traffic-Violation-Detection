@@ -149,12 +149,6 @@ Log to CSV + Display in Dashboard
 
 ---
 
-## 👨‍💻 Author
-
-Built as a **Bring Your Own Project (BYOP)** submission for the Computer Vision course.
-
----
-
 ## 📄 License
 
 MIT License – free to use and modify.
