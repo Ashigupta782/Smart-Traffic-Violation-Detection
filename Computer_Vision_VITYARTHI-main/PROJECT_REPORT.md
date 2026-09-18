@@ -1,8 +1,6 @@
 # Project Report – 
 **Course**: Computer Vision
 
-**Submission Type**: Bring Your Own Project (BYOP)
-
 ---
 
 ## 1. Problem Statement
